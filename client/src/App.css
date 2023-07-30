@@ -1,0 +1,16 @@
+.container {
+  overflow: auto;
+}
+.Addbtn {
+  text-align: right;
+}
+
+.card {
+  display: flex;
+}
+.pro {
+  font-weight: 600;
+}
+.pro span {
+  font-weight: 400;
+}
